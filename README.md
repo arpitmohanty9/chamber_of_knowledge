@@ -1,2 +1,1 @@
-# chamber_of_knowledge
-Collection of useful snippets and practices
+Collection of useful notebooks and snippets
